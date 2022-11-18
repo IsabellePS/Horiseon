@@ -1,2 +1,4 @@
-# Week1_Challenge
-First coding project
+# Horiseon
+As a marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
